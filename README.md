@@ -3,9 +3,9 @@ Welcome to my github! :musical_note:
 
 Languages: Java | Javascript | HTML5 | CSS3
 
-Backend: SpringMVC | Spring Boot | Servlet
+Backend:  Servlet | SpringMVC | Spring Boot (learning)
 
-Frontend: React | JSP | Bootstrap 
+Frontend: JSP | Bootstrap | React (learning)
 
 Test: JUnit | Postman 
 
