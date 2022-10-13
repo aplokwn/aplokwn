@@ -5,7 +5,7 @@ Languages: Java | Javascript | HTML5 | CSS3
 
 Backend:  Servlet | SpringMVC | Spring Boot 
 
-Frontend: JSP, thymeleaf | Bootstrap | React (progressing)
+Frontend: JSP, thymeleaf | Bootstrap | React
 
 Test: JUnit | Postman 
 
